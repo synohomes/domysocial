@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bleu-marine",
+    "name": "Bleu Marine",
+    "description": "Thème sombre bleu marine pour DoMySocial.",
+    "version": "1.0.0",
+    "author": "DoMySocial",
+    "date": "2026-07-27",
+    "preview_url": "https://raw.githubusercontent.com/synohomes/domysocial/main/themes/bleu-marine/preview.png",
+    "download_url": "https://github.com/synohomes/domysocial/raw/refs/heads/main/themes/bleu-marine/bleu-marine.zip",
+    "sha256": "REMPLACER_PAR_LE_SHA256_DU_ZIP",
+    "min_domysocial": "1.0.0"
+  }
+]
