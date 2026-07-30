@@ -18,8 +18,8 @@
     "version": "1.0.0",
     "author": "DoMySocial",
     "date": "2026-07-27",
-    "preview_url": "https://raw.githubusercontent.com/synohomes/DMS-THEMES/refs/heads/main/france.png",
-    "download_url": "https://github.com/synohomes/DMS-THEMES/raw/refs/heads/main/France.zip",
+    "preview_url": "https://raw.githubusercontent.com/synohomes/domysocial/main/france.png",
+    "download_url": "https://github.com/synohomes/domysocial/raw/refs/heads/main/france.zip",
     "sha256": "",
     "min_domysocial": "1.0.0"
   }
