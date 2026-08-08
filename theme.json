@@ -10,17 +10,5 @@
     "download_url": "https://github.com/synohomes/domysocial/raw/refs/heads/main/light.zip",
     "sha256": "63F03EB671CF4AE1C914D4C2EBE7A2FF5680D6F2F3B3F7901275C57EB4FFFD39 ",
     "min_domysocial": "1.0.0"
-  },
-    {
-    "id": "France",
-    "name": "Thème Français",
-    "description": "Thème aux couleurs Bleu / Blanc / Rouge.",
-    "version": "1.0.0",
-    "author": "DoMySocial",
-    "date": "2026-07-27",
-    "preview_url": "https://raw.githubusercontent.com/synohomes/domysocial/main/france.png",
-    "download_url": "https://github.com/synohomes/domysocial/raw/refs/heads/main/France.zip",
-    "sha256": "DCDB493257A05BDCA77281C5AE5C0C88DD73BF7DBCBBD8B2C28606FECE11DC8C",
-    "min_domysocial": "1.0.0"
   }
 ]
